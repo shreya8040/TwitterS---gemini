@@ -1,0 +1,7 @@
+{
+  "name": "TwitterS: Secure Social",
+  "description": "A safety-first social client designed for women, featuring advanced screenshot protection, AI-powered moderation, and strict anti-tracking content shields.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
